@@ -39,9 +39,7 @@ export default function Hero() {
               Virtual Tour E-Panorama 360° FIKTI UMSU
             </h1>
             <p className="mt-6 text-lg leading-8 text-gray-600 mx-auto">
-              Rasakan sensasi menjelajahi lingkungan Fakultas Ilmu Komputer dan
-              Teknologi Informasi Universitas Muhammadiyah Sumatera Utara ( UMSU
-              ) secara virtual 360°.
+              Rasakan sensasi menjelajahi lingkungan Fakultas Ilmu Komputer dan Teknologi Informasi Universitas Muhammadiyah Sumatera Utara (UMSU) secara virtual 360°.
             </p>
           </div>
         </div>
