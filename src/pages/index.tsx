@@ -5,6 +5,7 @@ const inter = Inter({ subsets: ["latin"] });
 import Navbar from "@/components/Navbar";
 import Card from "@/components/Card";
 import Hero from "@/components/Hero";
+import Footer from '@/components/Footer';
 
 export default function Home() {
   return (
@@ -37,6 +38,7 @@ export default function Home() {
           href="https://www.theasys.io/viewer/FxmXatALFVDHgYWfQUz8bkXrvygtT6/"
         />
       </div>
+      <Footer/>
     </main>
   );
 }

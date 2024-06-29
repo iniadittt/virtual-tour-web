@@ -36,11 +36,12 @@ export default function Hero() {
         <div className="mx-auto max-w-max px-6 py-24 sm:py-32 lg:flex lg:items-center lg:gap-x-10 lg:px-8 lg:py-40">
           <div className="mx-auto max-w-max lg:mx-0 lg:flex-auto">
             <h1 className="mt-0 max-w-max text-5xl font-bold tracking-tight text-gray-900 sm:text-6xl mx-auto">
-              Virtual Tour E-Panorama 360 Derajat
+              Virtual Tour E-Panorama 360° FIKTI UMSU
             </h1>
             <p className="mt-6 text-lg leading-8 text-gray-600 mx-auto">
-              Jelajahi kampus menggunakan camera 360 yang kami sediakan.
-              Fakultas Ilmu Komputer dan Teknologi Informasi.
+              Rasakan sensasi menjelajahi lingkungan Fakultas Ilmu Teknologi dan
+              Informasi Universitas Muhammadiyah Sumatera Utara ( UMSU )
+              secara virtual 360°.
             </p>
           </div>
         </div>

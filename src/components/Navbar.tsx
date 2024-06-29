@@ -7,7 +7,7 @@ export default function Navbar() {
         <div className="flex h-16 justify-between">
           <div className="flex">
             <div className="flex flex-shrink-0 items-center">
-              <h1 className="font-bold text-xl">Web Tour</h1>
+              <h1 className="font-bold text-xl">Virtual Tour FIKTI UMSU</h1>
             </div>
           </div>
         </div>
