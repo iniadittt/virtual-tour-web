@@ -7,7 +7,7 @@ export default function Footer() {
         Footer
       </h2>
       <div className="mx-auto max-w-7xl px-6 py-8 sm:py-16 lg:px-8">
-        <div className="xl:grid xl:grid-cols-2 xl:gap-48">
+        <div className="grid grid-cols-1 xl:grid-cols-2 gap-8 xl:gap-48">
           <Image
             className="h-auto"
             src="/images/icon.png"
@@ -15,7 +15,7 @@ export default function Footer() {
             width={1000}
             height={400}
           />
-          <div className="flex flex-col gap-4">
+          <div className="flex flex-col gap-2 md:gap-4">
             <div className="text-gray-800 w-full max-w-max flex gap-4">
               <Image
                 className="w-10 h-10 p-1 border-2 border-slate-800 rounded-full"
@@ -43,7 +43,7 @@ export default function Footer() {
           </div>
         </div>
 
-        <div className="mt-8 border-t border-white/10 pt-8 md:flex md:items-center md:justify-between">
+        <div className="md:mt-8 border-t border-white/10 pt-8 md:flex md:items-center md:justify-between">
           <p className="mt-8 text-sm font-medium leading-5 text-gray-800 md:order-1 md:mt-0">
             &copy; {new Date().getFullYear()} FIKTI UMSU - Teknologi Keren,
             Teknologi Modern.
